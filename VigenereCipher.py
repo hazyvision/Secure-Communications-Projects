@@ -1,8 +1,5 @@
 # Adriene Cuenco
-# Bronco ID: 008062093
-# CS460.01 (W15)
-# Hw 1 (Vigenere Cipher)
- 
+
 # ****Compiled with Python 2.7.6****
 #Encryption/Decryption software using Vigenere Cipher
 #Note: Key = vig
